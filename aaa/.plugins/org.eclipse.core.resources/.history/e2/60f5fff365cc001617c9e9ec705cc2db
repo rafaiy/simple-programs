@@ -1,0 +1,19 @@
+
+public class moto {
+private String name;
+private dateconstructor date;
+
+public moto (String n,dateconstructor d){
+	name=n;
+date = d;
+	
+	
+	
+}
+public string toString(){
+	return String.format("the name you gave is %s and the date is %s",name,date);
+	
+	
+}
+
+}

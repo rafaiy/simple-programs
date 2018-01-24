@@ -1,0 +1,13 @@
+
+public class constrdate {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		dateconstructor object1 = new dateconstructor(3,3,3);
+
+	}
+
+}

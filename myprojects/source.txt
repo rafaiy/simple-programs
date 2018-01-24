@@ -1,0 +1,208 @@
+"C:\Users\Rafaiy Rehman\AppData\Local\Programs\Python\Python35-32\python.exe" "C:/Users/Rafaiy Rehman/PycharmProjects/myprojects/webcrawler.py"
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLinkPromoted" href="https://www.olx.in/item/a37-this-is-use-only-4-months-i-buy-this-on-24-oct-ID19BoCL.html#ebfa3a7dcd;promoted">
+<span>A37..This is use only 4 months.. i buy this on 24 Oct.</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLinkPromoted" href="https://www.olx.in/item/iphone-5s-silver-16-gb-5-month-old-in-mint-condition-ID19nusX.html#ebfa3a7dcd;promoted">
+<span>IPhone 5s Silver 16 GB, 5 Month old in mint condition</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/oneplus-3t-6gb-ram-64-rom-16-16-mp-camera-ID19BYlj.html#ebfa3a7dcd">
+<span>Oneplus 3t,6gb ram 64 rom, 16-16 mp camera</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/a-very-good-condition-with-charger-3gb-and-32gb-ID19yaKX.html#ebfa3a7dcd">
+<span>A very good condition With charger 3gb and 32gb</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/good-mobiles-ID19yb3T.html#ebfa3a7dcd">
+<span>Good mobiles</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/panasonic-p41-only-in-5000-rs-8-month-old-ID19ybQp.html#ebfa3a7dcd">
+<span>Panasonic p41 only in 5000 rs 8 month old</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/i-want-sell-my-i-phone-7-128-gb-only-3-month-old-ID19wDFf.html#ebfa3a7dcd">
+<span>I want sell my i phone 7 128 gb only 3 month old</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/vivo-v5-camera-phone-with-front-camera-20-ID19wBUp.html#ebfa3a7dcd">
+<span>Vivo v5. Camera phone with front camera 20</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/mi-power-bank-20000-mah-capacity-unused-new-good-ID19y9Wp.html#ebfa3a7dcd">
+<span>Mi power bank 20000 mah capacity unused new good</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/gionee-elife-s7-mobile-ID19wAEW.html#ebfa3a7dcd">
+<span>gionee elife s7 mobile</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/moto-g4-plus-32gb-internal-3gb-ram-good-condition-5-months-old-ID19ybxn.html#ebfa3a7dcd">
+<span>Moto g4 plus 32gb internal 3gb ram..good condition 5 months old</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/i-want-to-sell-iphone-5c-no-exchange-8gb-ram-i-ID19wC3P.html#ebfa3a7dcd">
+<span>I want to sell iphone 5c no exchange 8gb ram i</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/i-want-to-sell-my-oppo-f1s-selfie-expert-wid-4-gb-ID19wEg1.html#ebfa3a7dcd">
+<span>I want to sell my oppo F1s selfie expert wid 4 gb</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/my-jbl-charge-2-great-sound-and-bass-only-6-ID19y9vW.html#ebfa3a7dcd">
+<span>My JBL Charge 2+ great sound and bass only 6</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/samsung-galaxy-s-duse-2-gt-s7582-ID19wDrN.html#ebfa3a7dcd">
+<span>Samsung Galaxy s duse 2 gt s7582</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/3gb-ram-32gb-rom-golden-color-ID19yalP.html#ebfa3a7dcd">
+<span>3gb Ram 32gb Rom Golden Color</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/htc-desir-516-new-condition-with-bill-1year-old-phone-urjent-sell-ID19ycXB.html#ebfa3a7dcd">
+<span>HTC desir 516 new condition with bill 1year old phone urjent sell</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/samsung-grand-quattro-2-and-a-half-year-old-ID19ybq1.html#ebfa3a7dcd">
+<span>Samsung grand Quattro 2 and a half year old</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/ultimate-condition-last-month-purchase-with-3-ID19wDC7.html#ebfa3a7dcd">
+<span>Ultimate condition last month purchase with 3</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/xolo-8x-1020-mobile-is-excellent-conditin-but-ID19BYaR.html#ebfa3a7dcd">
+<span>Xolo-8x-1020 mobile is excellent conditin. But</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/samsung-bluetooth-voice-calling-with-music-ID19BY4B.html#ebfa3a7dcd">
+<span>Samsung bluetooth voice calling with music</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/grand-2-good-condition-only-jack-not-supported-ID19BXo1.html#ebfa3a7dcd">
+<span>Grand 2 good condition only jack not supported</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/sony-xperia-m4-aqua-dual-is-a-4g-mobile-with1ghz-ID19vuX1.html#ebfa3a7dcd">
+<span>Sony Xperia m4 aqua dual is a 4G mobile with1GHz</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/orignel-samsung-charger-ID19BVED.html#ebfa3a7dcd">
+<span>Orignel samsung charger</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/mi-note-4-4gb-ram-and-64-gb-rom-gold-colour-6-ID19BVHN.html#ebfa3a7dcd">
+<span>mi note 4,4gb ram and 64 gb rom gold colour.6</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/good-condition-ID19BVzL.html#ebfa3a7dcd">
+<span>Good condition</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/j2-4g-fone-new-condition-with-bill-ID19BVrZ.html#ebfa3a7dcd">
+<span>J2 4g fone new condition with bill</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/v-gud-condition-nd-gud-bettery-backup-ID19ycZZ.html#ebfa3a7dcd">
+<span>V. Gud condition nd gud bettery backup</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/htc-desire-526-g-plus-nokia-mobile-ID19yb1d.html#ebfa3a7dcd">
+<span>Htc desire 526 g plus+nokia mobile</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/micromax-canvas-2-a110-is-in-very-gud-condition-ID19BVcp.html#ebfa3a7dcd">
+<span>Micromax canvas 2 A110 is in Very Gud Condition</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/sony-xperia-m4-aqua-dual-available-for-sell-in-ID19BWSR.html#ebfa3a7dcd">
+<span>Sony xperia m4 aqua dual available for sell in</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/good-good-condition-working-good-i-want-to-sale-ID19BWOw.html#ebfa3a7dcd">
+<span>Good good condition working good I want to sale</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/phone-in-good-working-condition-with-bill-battery-ID19siEj.html#ebfa3a7dcd">
+<span>Phone in good working condition with bill Battery</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/urjent-sell-today-samsung-j2-6-edition-2016-only-ID19Bx0h.html#ebfa3a7dcd">
+<span>Urjent sell today Samsung J2 6 Edition 2016 Only</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/htc-728-exchange-only-for-4g-phone-ID19BWqj.html#ebfa3a7dcd">
+<span>Htc 728 exchange only for 4g phone</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/samsung-j7-2015-model-still-in-warranty-period-of-4-months-ID19xNtJ.html#ebfa3a7dcd">
+<span>Samsung j7 2015 model still in warranty period of 4 months</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/mi4-with-3-gb-ram-and-64-gb-rom-having-ID19BWfn.html#ebfa3a7dcd">
+<span>Mi4 with 3 GB ram and 64 GB rom having</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/6-months-used-lyf-ID19BWd5.html#ebfa3a7dcd">
+<span>6 months used LYF</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/moto-g2-in-a-very-good-condition-ID19BWaW.html#ebfa3a7dcd">
+<span>moto g2 in a very good condition</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/sony-expria-m-dual-3g-mobile-urget-sell-ID19BUwp.html#ebfa3a7dcd">
+<span>Sony expria m dual 3G mobile urget sell</span>
+</a>
+</h3>
+<h3 class="large lheight20 margintop10">
+<a class="marginright5 link linkWithHash detailsLink" href="https://www.olx.in/item/hi-i-have-htc-desire-816g-in-good-condition-nd-ID19y4NT.html#ebfa3a7dcd">
+<span>Hi I have HTC desire 816g in good condition Nd</span>
+</a>
+</h3>
+
+Process finished with exit code 0

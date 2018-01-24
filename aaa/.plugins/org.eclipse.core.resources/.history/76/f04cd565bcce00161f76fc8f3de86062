@@ -1,0 +1,12 @@
+import javax.swing.*;
+public class joptionpane {
+	public static void main(String args[]){
+		
+	String s=	JOptionPane.showInputDialog("insert the number");
+	String s2 = JOptionPane.showInputDialog("enter second no","haha this is just a test");
+	int a = Integer.parseInt(s);
+	int b = Integer.parseInt(s2);
+		
+	}
+
+}

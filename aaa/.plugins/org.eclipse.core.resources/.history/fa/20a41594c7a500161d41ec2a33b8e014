@@ -1,0 +1,22 @@
+
+		import java.awt.*;
+
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+		public class main {
+
+			public static void main(String[] args) {
+				// TODO Auto-generated method stub
+				Frame obj=new Frame();
+				obj.setVisible(true);
+				obj.setSize(500,300);
+				obj.setTitle("RAR Download manager");
+			JMenuBar menubar;
+			menubar = new menubar();
+			JMenu menu = new JMenu("URL");
+            menubar.add(menu);
+            
+		
+	}
+
+}

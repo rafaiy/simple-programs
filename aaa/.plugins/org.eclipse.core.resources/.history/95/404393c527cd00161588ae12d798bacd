@@ -1,0 +1,19 @@
+
+public class club {
+private String name;
+private String city;
+private static int counter=0;
+ 
+public club(String n,String c){
+	name = n;
+	city = c;
+	counter++;	
+	System.out.printf("\nthe value of counter is: %s\n ",counter);
+}
+public String setname(){
+	return name;
+}
+public String setcity(){
+	return city;
+}
+}

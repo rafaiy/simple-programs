@@ -1,0 +1,25 @@
+
+public class time {
+private int hour;
+private int minute;
+private int second;
+
+public void passtime(int h, int m,int sec){
+	hour =(h>0 && h <25 ? h:0);
+	minute =(m>0 && m <61 ? m:0);
+	second =(h>0 && h <61 ? sec:0);
+	
+}
+public String timemilitary(){
+	
+	return String.format("%02d:%02d:%02d",hour,minute,second);
+	
+	
+}
+public String normtime(){
+	
+	
+return String.format("%d:%02d:%02d:%s",(hour==0 || hour==12 ? 12 : hour%12),minute,second,(hour > 12 ? "am":"pm") );
+}
+
+}

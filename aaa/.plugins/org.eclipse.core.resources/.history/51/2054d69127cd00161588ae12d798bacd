@@ -1,0 +1,16 @@
+
+public class mainstatic {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	club person1=new club("rafaiy", "19");
+	club person2=new club("zarreen","23");
+	club person3=new club("wajeeha","13");
+	//System.out.printf("name is: %s\n age is%s\t"person3.setname(),person3.setname());
+	
+
+	}
+
+}

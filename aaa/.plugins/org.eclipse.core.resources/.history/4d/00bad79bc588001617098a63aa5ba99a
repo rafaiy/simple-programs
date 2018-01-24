@@ -1,0 +1,36 @@
+
+abstract class abstcls {
+abstract public void m1();
+abstract void m2();
+void m3(){
+	
+	System.out.println("me methid is called");
+		
+}
+}
+class a2 extends abstcls{
+	public void m1(){
+		
+		System.out.println("m1 method on class a2 is called");
+		
+	}
+	public void m2(){
+		
+		System.out.println("m2 method from class a2 is called");
+				
+	}
+	
+	
+}
+class a3 extends abstcls{
+	
+public void m1(){
+		
+		System.out.println("m1 method from class a3 is called");		
+	
+}
+public void m2(){
+	
+	System.out.println("m2 methd from class a3 is called");
+}
+}

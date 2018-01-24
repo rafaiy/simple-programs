@@ -1,0 +1,18 @@
+
+public class club {
+private String name;
+private String city;
+private static int counter=0;
+ 
+public club(String n,String c){
+	name = n;
+	city = c;
+	counter++;	
+}
+public String setname(){
+	return name;
+}
+public String setcity(){
+	return city;
+}
+}

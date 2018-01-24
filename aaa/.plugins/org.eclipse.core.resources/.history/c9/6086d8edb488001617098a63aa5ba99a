@@ -1,0 +1,29 @@
+
+class interfc {
+interface i1{
+	
+	abstract public void me1();
+	void me2();
+	
+}}
+interface i2{
+	abstract public void me3();
+	void me4();
+	
+	
+}
+class ci implements interfc.i1,i2{
+	
+	public void me1(){
+		
+		System.out.println("this is me1");
+		
+	}
+	public void me2(){
+		
+		System.out.println("this is me2");
+	}
+	public void me3(){System.out.println("this is me3");}
+	public void me4(){System.out.println("this is me4");}
+	
+}

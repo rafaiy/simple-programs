@@ -1,0 +1,19 @@
+import java.awt.FlowLayout;
+import java.awt.LayoutManager;
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class orange extends JFrame  {
+
+	private JLabel j1;
+	public orange(){
+		super("hello");
+		setLayout(new FlowLayout);
+		j1 = new JLabel("this is the titles of the program ");
+		j1.setToolTipText("this pops when mouse waves");
+		add(j1);
+	}
+	
+
+}

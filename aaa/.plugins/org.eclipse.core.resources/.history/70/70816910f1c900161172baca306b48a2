@@ -1,0 +1,11 @@
+
+public class myclass {
+	
+	public static void main(String[] args) {
+		
+time tobj =new time();
+tobj.passtime(12,13,13);
+System.out.println(tobj.timemilitary());
+	}
+
+}

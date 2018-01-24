@@ -1,0 +1,16 @@
+
+public class smile {
+
+
+	public static void main(String[] args) {
+		//eumuration any= new eumuration();
+		
+		for(eumuration people:eumuration.values()){
+			
+			System.out.printf("people :%s,name : %s, age :%s",people,people.geti(),people.gety());
+			
+		}
+
+	}
+
+}

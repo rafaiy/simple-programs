@@ -1,0 +1,18 @@
+
+public class mainc {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		fffinalvariable obj1;
+		for(int i=1;i<5;i++){
+			
+			obj1 = new fffinalvariable(i);
+			System.out.printf("this is the for loop call %s",obj1);
+		}
+
+	}
+
+}

@@ -1,0 +1,15 @@
+
+		import java.awt.*;
+		import javax.swing.JMenu;
+        import javax.swing.JMenuBar;
+		public class main extends Frame  {
+
+			public static void main(String[] args) {
+				// TODO Auto-generated method stub
+				Frame j=new Frame("my frmae");
+				
+            
+		
+	}
+
+}

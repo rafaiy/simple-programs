@@ -1,0 +1,11 @@
+import javax.swing.*;
+public class joptionpane {
+	public static void main(String args[]){
+		
+	String s=	JOptionPane.showInputDialog("insert the number");
+		
+		
+		
+	}
+
+}

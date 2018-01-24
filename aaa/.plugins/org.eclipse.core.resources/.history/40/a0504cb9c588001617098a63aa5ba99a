@@ -1,0 +1,24 @@
+
+public class mmcls {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	/*ci obj=new ci();
+	obj.me1();
+	obj.me4();
+*/
+	a2 newobj=new a2();
+		newobj.m1();
+		newobj.m3();
+		
+		a3 newobj=new a3();
+		newobj.m1();
+		newobj.m2();
+		newobj.m3();
+
+	}
+
+}

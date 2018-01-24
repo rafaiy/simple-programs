@@ -1,0 +1,2 @@
+this file is created by pycharm 
+now the program to read from this file using pyCharm
