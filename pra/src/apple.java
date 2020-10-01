@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class apple {
+public class apple extends orange {
 
 	/**
 	 * @param args
