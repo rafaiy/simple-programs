@@ -8,9 +8,10 @@ public class orange extends JFrame{
 	 orange(){
 		 super("myframe");
 		 setLayout(new FlowLayout());
-	l1 = new JLabel("labe;");	 
 		 
-		 l1.setToolTipText("this posps up when u hover");
+	              l1 = new JLabel("label");	 
+		 
+		 l1.setToolTipText("this pops up when you hover over it");
 		 //l1.setBounds(100,100,25,25);
 		add(l1); 
 	 }
